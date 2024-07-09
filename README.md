@@ -6,11 +6,11 @@ I'm Victoria, a data science student from St-Petersburg.
 • [Project-1](https://github.com/tori938/PROJECT-1) \
 • [Project-2](https://github.com/tori938/PROJECT-2) \
 • [Project-3](https://github.com/tori938/PROJECT-3) \
-• [Project-4](https://github.com/tori938/PROJECT-4) \
+• [Project-4](https://github.com/tori938/PROJECT-4)
 
 ⚒️ Tools 🛠️ \
 • **Languages:** Python, SQL \
-• **Database:** PostgreSQL \
+• **Database:** PostgreSQL
 
 Currently: \
 📝 learning linear algebra \
