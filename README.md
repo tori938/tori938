@@ -9,8 +9,8 @@ I'm Victoria, a data science student from St-Petersburg.
 • [Project-4](https://github.com/tori938/PROJECT-4)
 
 ⚒️ Tools 🛠️ \
-• **Languages:** Python, SQL \
-• **Database:** PostgreSQL
+• Languages: Python, SQL \
+• Database: PostgreSQL
 
 Currently: \
 📝 learning linear algebra \
