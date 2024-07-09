@@ -2,7 +2,7 @@
 
 I'm Victoria, a data science student from St-Petersburg.
 
-📚 Projects 📘 \
+📚 Projects 📚 \
 • [Project-1](https://github.com/tori938/PROJECT-1) \
 • [Project-2](https://github.com/tori938/PROJECT-2) \
 • [Project-3](https://github.com/tori938/PROJECT-3) \
