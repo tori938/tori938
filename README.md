@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 😎
 
 <!--
 **tori938/tori938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📚 Projects 💻
+Welcome to my portfolio, where I showcase [my projects]().
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚒️ Tools 🛠️
+- **Languages:** Python, SQL
+- **Database:** PostgreSQL
+
+Currently:
+📝 learning linear algebra
+🤔 brushing up on SQL
+📖 reading _The Origin of Consciousness in the Breakdown of the Bicameral Mind_ by J. Jaynes
