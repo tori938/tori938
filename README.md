@@ -3,10 +3,10 @@
 I'm Victoria, a data science student from St-Petersburg.
 
 📚 Projects 📚 \
-• [Project-1](https://github.com/tori938/PROJECT-1) \
-• [Project-2](https://github.com/tori938/PROJECT-2) \
-• [Project-3](https://github.com/tori938/PROJECT-3) \
-• [Project-4](https://github.com/tori938/PROJECT-4)
+• [Project-1: Resume Analysis from HeadHunter](https://github.com/tori938/PROJECT-1) \
+• [Project-2: Vacancy Analysis from HeadHunter](https://github.com/tori938/PROJECT-2) \
+• [Project-3: Hotel Rating Prediction Model](https://github.com/tori938/PROJECT-3) \
+• [Project-4: Deposit Opening Prediction Model](https://github.com/tori938/PROJECT-4)
 
 ⚒️ Tools 🛠️ \
 • Languages: Python, SQL \
