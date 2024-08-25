@@ -13,9 +13,9 @@ I'm Victoria, a data science student from St-Petersburg.
 • Database: PostgreSQL
 
 Currently: \
-📝 learning linear algebra \
+📝 learning mathematical analysis \
 🤔 brushing up on SQL \
-📖 reading _The Origin of Consciousness in the Breakdown of the Bicameral Mind_ by J. Jaynes
+📖 reading _Ovod_ by E. Voynich
 
 <!--
 **tori938/tori938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
