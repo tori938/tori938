@@ -14,7 +14,7 @@ I'm Victoria, a data science student from St-Petersburg.
 • Database: PostgreSQL
 
 Currently: \
-📝 learning probability theory \
+📝 learning decision tree algorithms \
 🤔 brushing up on SQL \
 📖 reading short stories by K. Paustovsky
 
