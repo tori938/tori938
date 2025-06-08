@@ -15,10 +15,10 @@ I'm Victoria, a data science student from St-Petersburg.
 • Database: PostgreSQL
 
 Currently: \
-📝 learning Docker \
-🤔 brushing up on Excel, ML with Python \
+📝 learning AB-Testing \
+🤔 brushing up on Excel, Math with ML \
 📖 reading _Martian Chronicles_ by R. Bradbury \
-📺 watching _Person of Interest_
+📺 watching _The Good Wife_
 
 <!--
 **tori938/tori938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
