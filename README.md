@@ -8,7 +8,7 @@ I'm Victoria, a data science student from St-Petersburg.
 • [Project-3: Hotel Rating Prediction Model](https://github.com/tori938/PROJECT-3) \
 • [Project-4: Deposit Opening Prediction Model](https://github.com/tori938/PROJECT-4) \
 • [Project-5: Taxi Journey Prediction Model](https://github.com/tori938/PROJECT-5) \
-• [Project-6: Customer Segmentation Prediction Model](https://github.com/tori938/PROJECT-6)
+• [Project-6: Customer Segmentation Prediction Model](https://github.com/tori938/PROJECT-6) \
 • [Project-7: Property Value Prediction Model](https://github.com/tori938/PROJECT-7)
 
 ⚒️ Tools 🛠️ \
